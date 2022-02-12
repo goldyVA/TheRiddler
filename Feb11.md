@@ -6,45 +6,45 @@ https://replit.com/@StevenGoldburg/RiddlerFeb11#Main.java
 The following spreadsheet has every number 1-1000 and how many times it is trapezoidal:
 https://docs.google.com/spreadsheets/d/1WGQWvWkow1Y1q9RE7t1KLyN4NiLX7vN4-jtkru0F4fI/edit?usp=sharing
 
-Triply: 15
-Quadruply: 81
-Quintuply: 45
-Sextuply: 729
-
-
-Triply Trapezoidal:
-
-15   
-Sum of 5 consecutive numbers starting with 1
-Sum of 3 consecutive numbers starting with 4
-Sum of 2 consecutive numbers starting with 7
-
-Quadruply Trapezoidal:
-
+Triply: 15  
+Quadruply: 81  
+Quintuply: 45  
+Sextuply: 729  
+  
+  
+Triply Trapezoidal:  
+  
+15     
+Sum of 5 consecutive numbers starting with 1  
+Sum of 3 consecutive numbers starting with 4  
+Sum of 2 consecutive numbers starting with 7  
+  
+Quadruply Trapezoidal:  
+  
 81  
-Sum of 9 consecutive numbers starting with 5      
-Sum of 6 consecutive numbers starting with 11      
+Sum of 9 consecutive numbers starting with 5        
+Sum of 6 consecutive numbers starting with 11       
 Sum of 3 consecutive numbers starting with 26      
-Sum of 2 consecutive numbers starting with 40 
-
-Quintuply Trapezoidal:
-
+Sum of 2 consecutive numbers starting with 40   
+  
+Quintuply Trapezoidal:  
+  
 45   
 Sum of 9 consecutive numbers starting with 1      
 Sum of 6 consecutive numbers starting with 5     
 Sum of 5 consecutive numbers starting with 7      
 Sum of 3 consecutive numbers starting with 14      
-Sum of 2 consecutive numbers starting with 22 
-
-Sextuply Trapezoidal:
-
+Sum of 2 consecutive numbers starting with 22   
+  
+Sextuply Trapezoidal:  
+  
 729   
-Sum of 27 consecutive numbers starting with 14      
-Sum of 18 consecutive numbers starting with 32      
-Sum of 9 consecutive numbers starting with 77      
-Sum of 6 consecutive numbers starting with 119      
-Sum of 3 consecutive numbers starting with 242      
-Sum of 2 consecutive numbers starting with 364 
+Sum of 27 consecutive numbers starting with 14        
+Sum of 18 consecutive numbers starting with 32        
+Sum of 9 consecutive numbers starting with 77        
+Sum of 6 consecutive numbers starting with 119        
+Sum of 3 consecutive numbers starting with 242        
+Sum of 2 consecutive numbers starting with 364   
 
 Trapezoidal Seven Times:
 
