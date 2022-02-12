@@ -12,14 +12,14 @@ Quintuply: 45
 Sextuply: 729  
   
   
-Triply Trapezoidal:  
+First Triply Trapezoidal:  
   
 15     
 Sum of 5 consecutive numbers starting with 1  
 Sum of 3 consecutive numbers starting with 4  
 Sum of 2 consecutive numbers starting with 7  
   
-Quadruply Trapezoidal:  
+First Quadruply Trapezoidal:  
   
 81  
 Sum of 9 consecutive numbers starting with 5        
@@ -27,7 +27,7 @@ Sum of 6 consecutive numbers starting with 11
 Sum of 3 consecutive numbers starting with 26      
 Sum of 2 consecutive numbers starting with 40   
   
-Quintuply Trapezoidal:  
+First Quintuply Trapezoidal:  
   
 45   
 Sum of 9 consecutive numbers starting with 1      
@@ -36,7 +36,7 @@ Sum of 5 consecutive numbers starting with 7
 Sum of 3 consecutive numbers starting with 14      
 Sum of 2 consecutive numbers starting with 22   
   
-Sextuply Trapezoidal:  
+First Sextuply Trapezoidal:  
   
 729   
 Sum of 27 consecutive numbers starting with 14        
@@ -46,7 +46,7 @@ Sum of 6 consecutive numbers starting with 119
 Sum of 3 consecutive numbers starting with 242        
 Sum of 2 consecutive numbers starting with 364   
 
-Trapezoidal Seven Times:
+First Trapezoidal Seven Times:
 
 105   
 Sum of 14 consecutive numbers starting with 1      
@@ -57,7 +57,7 @@ Sum of 5 consecutive numbers starting with 19
 Sum of 3 consecutive numbers starting with 34      
 Sum of 2 consecutive numbers starting with 52      
 
-Trapezoidal Eight Times:
+First Trapezoidal Eight Times:
 
 225   
 Sum of 18 consecutive numbers starting with 4      
@@ -70,7 +70,7 @@ Sum of 3 consecutive numbers starting with 74
 Sum of 2 consecutive numbers starting with 112  
 
 
-Trapezoidal Nine Times:
+First Trapezoidal Nine Times:
 
 405   
 Sum of 27 consecutive numbers starting with 2      
@@ -83,7 +83,7 @@ Sum of 5 consecutive numbers starting with 79
 Sum of 3 consecutive numbers starting with 134      
 Sum of 2 consecutive numbers starting with 202
 
-Trapezoidal Eleven Times:
+First Trapezoidal Eleven Times:
 
 315   
 
@@ -99,7 +99,7 @@ Sum of 5 consecutive numbers starting with 61
 Sum of 3 consecutive numbers starting with 104      
 Sum of 2 consecutive numbers starting with 157 
 
-Trapezoidal Fifteen Times
+First Trapezoidal Fifteen Times
 
 945   
 Sum of 42 consecutive numbers starting with 2      
