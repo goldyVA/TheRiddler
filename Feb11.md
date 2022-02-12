@@ -1,4 +1,4 @@
-First occurrence of each type of trapezoidal number analyzed to 1000.
+**First occurrence of each type of trapezoidal number analyzed to 1000**
 
 The following program was used to compile the information: 
 https://replit.com/@StevenGoldburg/RiddlerFeb11#Main.java
