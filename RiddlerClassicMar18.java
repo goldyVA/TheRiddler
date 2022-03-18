@@ -30,6 +30,7 @@ public class RiddlerClassicMar18
 		//encoded value is placed here
 		int encode = 81;
 		System.out.println("Value to encode: " + encode);
+		System.out.println();
 		
 		//find the maximum q and which sequence it was in
 		ArrayList<Integer> max = null;
