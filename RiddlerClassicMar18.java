@@ -12,7 +12,7 @@ public class RiddlerClassicMar18
 		//sequences are 20 numbers long
 		for(int m = 1; m <= 100; m++)
 		{
-			for(int n = m+1; n <= 100; n++)
+			for(int n = m; n <= 100; n++)
 			{
 				ArrayList<Integer> sequence = new ArrayList<Integer>();
 				sequence.add(m);
