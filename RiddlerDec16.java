@@ -1,10 +1,8 @@
 
 public class RiddlerDec16 
 {
-
 	public static void main(String[] args) 
-	{
-		
+	{	
 		int count = 0;
 		int min = Integer.MAX_VALUE;
 		String minstring = "";
@@ -59,5 +57,4 @@ public class RiddlerDec16
 			sum = a + b + c;
 		}
 	}
-
 }
